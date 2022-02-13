@@ -35,7 +35,7 @@ def main():
     fig.tight_layout(rect=[0,0,1,0.96])
 
     if IS_SAVE:
-        plt.savefig("t4t5u0.pdf")
+        plt.savefig("t4t5u0.png")
     else:
         plt.show()
 
